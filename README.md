@@ -1,4 +1,4 @@
-<h3 align="center">Hi and welcome to my profile:wave:. I'm Isac, a 25 yo Data Scientist & Developer. Mainly interested in ML, data science & Python.</h3>
+<h3 align="center">Hi and welcome to my profile:wave:. I'm Isac, a 25 yo Developer & MLE. Mainly interested in ML, data science & Python.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsacLorentz](https://github.com/IsacLorentz)
 
