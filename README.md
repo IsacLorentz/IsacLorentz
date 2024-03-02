@@ -1,4 +1,4 @@
-<h3 align="center">Hi and welcome to my profile. I'm Isac, a 25 yo Developer & MLE. Mainly interested in ML, data science & Python.</h3>
+<h3 align="center">Hi and welcome to my profile. I'm Isac, a 26 yo Backend Developer & MLE. Mainly interested in ML, data science & Python.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsacLorentz](https://github.com/IsacLorentz)
 
